@@ -19,7 +19,7 @@
     'data': [],
     'images': [],
     'demo': [],
-    'auto_install': False,
+    'auto_install': True,
     'installable': True,
     'application': True,
 }
