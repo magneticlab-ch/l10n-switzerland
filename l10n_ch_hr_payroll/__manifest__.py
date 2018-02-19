@@ -13,7 +13,7 @@
         'hr_attendance'
     ],
     'version': '10.0.1.0.0',
-    'auto_install': False,
+    'auto_install': True,
     'demo': [],
     'website': 'http://open-net.ch',
     'license': 'AGPL-3',
