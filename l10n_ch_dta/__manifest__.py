@@ -16,7 +16,7 @@
  'data': ['data/account_payment_method.xml',
           ],
  'demo': ["demo/dta_demo.xml"],
- 'auto_install': False,
+ 'auto_install': True,
  'installable': True,
  'post_init_hook': 'update_bank_journals',
  'images': []
